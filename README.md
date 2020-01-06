@@ -8,7 +8,7 @@ The repo are consisted of three code notbooks:
 
 Web scraping code: "review scraping"
 
-Machine learning code: "ake review detection"
+Machine learning code: "fake review detection"
 
 Visualization and sentiment analysis code: "fake review visulization"
 
