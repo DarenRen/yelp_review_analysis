@@ -6,7 +6,7 @@ The project is going to detect fake reviews in yelp website. We got test data fr
 
 The repo are consisted of three code notbooks:
 
-Web scraping code: "review_scraping"
+Web scraping code: "data_scraping"
 
 Machine learning code: "fake_review_detection"
 
