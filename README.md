@@ -6,11 +6,11 @@ The project is going to detect fake reviews in yelp website. We got test data fr
 
 The repo are consisted of three code notbooks:
 
-Web scraping code: "review scraping"
+Web scraping code: "review_scraping"
 
-Machine learning code: "fake review detection"
+Machine learning code: "fake_review_detection"
 
-Visualization and sentiment analysis code: "fake review visulization"
+Visualization and sentiment analysis code: "fake_review_visulization"
 
 ## Thank all of you for using or checking these codes
 
